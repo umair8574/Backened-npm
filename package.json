@@ -1,0 +1,25 @@
+{
+  "name": "backened-npm",
+  "version": "1.0.0",
+  "description": "heroku deployment repo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair8574/Backened-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umair8574/Backened-npm/issues"
+  },
+  "homepage": "https://github.com/umair8574/Backened-npm#readme",
+  "dependencies": {
+    "heroku": "^7.63.4",
+    "json-server": "^0.17.0"
+  }
+}
